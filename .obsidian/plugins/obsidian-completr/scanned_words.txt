@@ -562,6 +562,8 @@ Seq
 Sum
 System
 Stability
+Simplification
+Short
 robot
 range
 represent
@@ -785,6 +787,9 @@ rfN
 rmtk
 rQYY
 rP
+replace
+respectively
+relevant
 must
 making
 microcontroller
@@ -1002,6 +1007,7 @@ mRCam
 mjggw
 mBH
 mFhU
+magnetic
 detect
 decision
 duty
@@ -1256,6 +1262,8 @@ djj
 dnn
 dxx
 dobw
+desired
+disconnect
 walls
 weighted
 waves
@@ -1622,6 +1630,7 @@ intersects
 ikm
 ibvY
 izz
+impedance
 the
 them
 that
@@ -1838,6 +1847,7 @@ tuuA
 tbtt
 tbqq
 twwC
+terminals
 playing
 produces
 physical
@@ -2799,6 +2809,8 @@ cii
 cxx
 chh
 cMM
+coupling
+conenct
 and
 activating
 accurately
@@ -3022,6 +3034,7 @@ azz
 alA
 ayy
 auu
+admittance
 limit
 low
 loads
@@ -3477,6 +3490,8 @@ simulation
 shunted
 sssx
 sTWW
+shorting
+shorts
 Design
 Definitions
 Digital
@@ -3982,6 +3997,7 @@ oTHM
 oQ
 oVu
 oMM
+opening
 Core
 Continuous
 Comparators
@@ -4766,6 +4782,8 @@ TBl
 TVVR
 TWWokTVV
 Topic
+Theorems
+Theorem
 Working
 We
 Work
@@ -6479,6 +6497,7 @@ FFFp
 Fww
 Function
 Finite
+First
 Intuition
 IC
 II
@@ -6829,6 +6848,7 @@ Nyy
 NII
 NGYY
 NNj
+Norton
 need
 not
 necking
