@@ -47,4 +47,52 @@
 - Find voltage between the two ports. 
 
 #### External View 
-- Any portion of a linear circuit w.r.t. a port can be 
+- Any portion of a linear circuit w.r.t. a port can be reduced to an equivalent Thevenin voltage source or equivalent impedance $Z_{t}$
+
+#### 1A 2A Method.
+- Sent a 1A current source through the circuit, and examine the resulting voltage across the diport.
+$$V = V_{Th} + IR_{Th}$$
+
+
+## Norton's theorem
+- Any 2-terminal network can be replaced by an equivalent circuit consisting of a current source and a parallel impedance.
+
+### Norton Impedance 
+- Set all sources to zero, and find the resulting impedance between the two ports. 
+### Norton Current 
+- Calculate the Norton current by returning all sources to original position and finding the short-circuit current between a and b. 
+
+
+### External View 
+- A portion of linear network may be represented at an electrical port by an equivalent circuit source $I_n$and equivalent admittance $Y_{n}$
+
+## Converting between Thevenin and Norton Equivalent Uniports. 
+![[Pasted image 20251205070142.png]]
+
+
+## Millman's theorem 
+- Any number of parallel branches can be reduced to one. 
+- ![[Pasted image 20251205070255.png]]
+$$Y_{eq}(s) = Y_{1} + Y_{2} + Y_{3}$$
+- is the same as 
+$$\frac{1}{Z_{eq}(s)}= \frac{1}{Z_{1}} + \frac{1}{Z_{2}} + \frac{1}{Z_{3}}$$
+$$E_{eq}(s) = \frac{Y_{1}E_{1} + Y_{2}E_{2} + Y_{3}E_{3}}{Y_{1} + Y_{2} + Y_{3}}$$
+
+### Millman's theorem in Series 
+![[Pasted image 20251205070606.png]]
+$$Z_{eq}(s) = Z_{1} + Z_{2} + Z_{3}$$
+$$I_{eq}(s) = \frac{Z_{1}I_{1}+Z_{2}I_{2}+Z_{3}I_{3}}{Z_{1}+Z_{2}+Z_{3}}$$
+
+## Superposition with linearly dependent sources 
+- Identify sources, dependent vs independent.
+- Activate one independent source, do not disable the dependent sources. 
+- Repeat for all independent. 
+
+## Miller's Theorem 
+- Helps in analysis by eliminating the feedback. 
+- ![[Pasted image 20251205070857.png]]
+
+This works in scenarios where $V_{2} = kV_{1}$ specifically. 
+
+- We can say that $Z_{1} = Z \frac{1}{1-k}$ and $Z_{2} = Z \frac{k}{k-1}$
+- ![[Pasted image 20251205071029.png]]
