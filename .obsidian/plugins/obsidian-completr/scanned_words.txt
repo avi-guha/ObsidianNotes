@@ -315,6 +315,7 @@ LyS
 LeD
 LLL
 LFmW
+Laplace
 Switch
 Sensors
 Signals
@@ -557,6 +558,10 @@ SPP
 SVVFQQ
 STTt
 SRR
+Seq
+Sum
+System
+Stability
 robot
 range
 represent
@@ -3681,6 +3686,9 @@ DII
 DXhwY
 DUU
 Dkk
+Discrete
+DTFS
+DTFT
 voltage
 varies
 variable
@@ -4205,6 +4213,8 @@ Ch
 CGd
 Cww
 CMM
+Convolution
+Circle
 Robotics
 Ratio
 Resilience
@@ -4387,6 +4397,7 @@ RHI
 Rvl
 RWWGyy
 RxX
+Rep
 Problems
 PWM
 Pins
@@ -4576,6 +4587,8 @@ PIx
 PjP
 Pss
 PVh
+Periodic
+Plane
 The
 Theory
 Transform
@@ -4752,6 +4765,7 @@ TwFb
 TBl
 TVVR
 TWWokTVV
+Topic
 Working
 We
 Work
@@ -5065,6 +5079,7 @@ Ar
 Ajjj
 Agg
 ALLL
+Aperiodic
 quantity
 qqq
 qN
@@ -5692,6 +5707,7 @@ Emm
 EEEj
 Eyy
 EEEttt
+Exp
 encoded
 encode
 emitter
@@ -6123,6 +6139,7 @@ Bbn
 BlAZ
 BMM
 Bsss
+Basis
 high
 have
 here
@@ -6460,6 +6477,8 @@ FIBF
 Fee
 FFFp
 Fww
+Function
+Finite
 Intuition
 IC
 II
@@ -6668,6 +6687,8 @@ IMOf
 IiVL
 IoB
 IFFF
+Integral
+Inside
 Noise
 NPN
 Necking
@@ -7460,6 +7481,7 @@ Gz
 GMY
 GWW
 GjO
+Gen
 You
 Young
 Yield
@@ -7801,6 +7823,7 @@ Uv
 UKT
 UUUj
 Ub
+Unit
 Key
 Kt
 Kg
@@ -8100,6 +8123,7 @@ HMS
 HJQ
 Heu
 Haa
+Half
 Quick
 QQ
 QTT
