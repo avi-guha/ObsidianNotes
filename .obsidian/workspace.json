@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b7938826f2fe4fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elec 301/Notes/Chapter 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3"
-            }
-          },
-          {
             "id": "f8a4c43784b889de",
             "type": "leaf",
             "state": {
@@ -220,28 +206,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b7938826f2fe4fa",
+  "active": "ceb3fa9ab8a38ca7",
   "lastOpenFiles": [
+    "Elec 301/Notes/Chapter 3.md",
+    "Elec 301/Notes/Chapter 4 - Review Example.md",
+    "Elec 301/Notes/Chapter 2 - Circuit of Interest.md",
+    "Elec 301/Notes/Chapter 1.md",
+    "Pasted image 20251204215224.png",
+    "Pasted image 20251204185122.png",
+    "Pasted image 20251204183314.png",
+    "Pasted image 20251204183230.png",
+    "Pasted image 20251204183106.png",
+    "Pasted image 20251204183043.png",
     "Pasted image 20251204182357.png",
     "Pasted image 20251204182335.png",
     "Pasted image 20251204181859.png",
     "Pasted image 20251204181714.png",
-    "Pasted image 20251204181602.png",
-    "Screenshot 2025-12-04 181458.png",
-    "Elec 301/Notes/Chapter 2 - Circuit of Interest.md",
-    "Elec 301/Notes/Chapter 3.md",
-    "Pasted image 20251204180944.png",
-    "Pasted image 20251204180833.png",
-    "Pasted image 20251204180757.png",
-    "Pasted image 20251204180735.png",
-    "Elec 301/Notes/Chapter 1.md",
     "Things for 11-6-2025.md",
     "Untitled.base",
     "Elec 301/Project 1 - Avi Guha.md",
     "Untitled.md",
     "Elec 301/Notes",
     "Elec221/Elec 221 - Relevant Chapters.md",
-    "Images/Pasted image 20251116152831.png",
     "1.1 - Continuous and Discrete Time Signals.md",
     "Elec221",
     "Untitled 1.base",
@@ -263,7 +249,6 @@
     "APSC278/Fatigue.md",
     "APSC278/Fracture II - Stress Concentration and Fracture Toughness.md",
     "Embedded Systems Review/Recruiter Tips.md",
-    "Embedded Systems Review/Digital Communication Methods.md",
     "Embedded Systems Review/Communication",
     "Embedded Systems Review/RTOS",
     "Embedded Systems Review/Computer Architecture",
