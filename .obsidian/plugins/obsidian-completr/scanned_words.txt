@@ -564,6 +564,10 @@ System
 Stability
 Simplification
 Short
+<<<<<<< HEAD
+=======
+Similarly
+>>>>>>> 86c018ec709b5aed00f0067ae593ca68b7ec859a
 robot
 range
 represent
@@ -790,6 +794,10 @@ rP
 replace
 respectively
 relevant
+<<<<<<< HEAD
+=======
+replacing
+>>>>>>> 86c018ec709b5aed00f0067ae593ca68b7ec859a
 must
 making
 microcontroller
@@ -1264,6 +1272,12 @@ dxx
 dobw
 desired
 disconnect
+<<<<<<< HEAD
+=======
+draws
+did
+drawn
+>>>>>>> 86c018ec709b5aed00f0067ae593ca68b7ec859a
 walls
 weighted
 waves
@@ -1631,6 +1645,10 @@ ikm
 ibvY
 izz
 impedance
+<<<<<<< HEAD
+=======
+impedances
+>>>>>>> 86c018ec709b5aed00f0067ae593ca68b7ec859a
 the
 them
 that
@@ -2293,6 +2311,8 @@ fnn
 fjj
 fuj
 fuu
+few
+feedback
 by
 between
 be
@@ -2809,6 +2829,10 @@ cii
 cxx
 chh
 cMM
+<<<<<<< HEAD
+=======
+complicates
+>>>>>>> 86c018ec709b5aed00f0067ae593ca68b7ec859a
 coupling
 conenct
 and
@@ -3490,6 +3514,10 @@ simulation
 shunted
 sssx
 sTWW
+<<<<<<< HEAD
+=======
+syllabus
+>>>>>>> 86c018ec709b5aed00f0067ae593ca68b7ec859a
 shorting
 shorts
 Design
@@ -4231,6 +4259,7 @@ Cww
 CMM
 Convolution
 Circle
+Circuit
 Robotics
 Ratio
 Resilience
@@ -4605,6 +4634,7 @@ Pss
 PVh
 Periodic
 Plane
+Proof
 The
 Theory
 Transform
@@ -4782,8 +4812,14 @@ TBl
 TVVR
 TWWokTVV
 Topic
+<<<<<<< HEAD
 Theorems
 Theorem
+=======
+Transistor
+Theorem
+Theorems
+>>>>>>> 86c018ec709b5aed00f0067ae593ca68b7ec859a
 Working
 We
 Work
@@ -5098,6 +5134,7 @@ Ajjj
 Agg
 ALLL
 Aperiodic
+Amplifier
 quantity
 qqq
 qN
@@ -5726,6 +5763,7 @@ EEEj
 Eyy
 EEEttt
 Exp
+Emitter
 encoded
 encode
 emitter
@@ -6498,6 +6536,10 @@ Fww
 Function
 Finite
 First
+<<<<<<< HEAD
+=======
+Finally
+>>>>>>> 86c018ec709b5aed00f0067ae593ca68b7ec859a
 Intuition
 IC
 II
@@ -6708,6 +6750,7 @@ IoB
 IFFF
 Integral
 Inside
+Interest
 Noise
 NPN
 Necking
@@ -7502,6 +7545,7 @@ GMY
 GWW
 GjO
 Gen
+Given
 You
 Young
 Yield
@@ -8144,6 +8188,7 @@ HJQ
 Heu
 Haa
 Half
+Hybrid
 Quick
 QQ
 QTT
@@ -8688,6 +8733,7 @@ JSS
 JQQ
 Jee
 Jkkk
+Just
 XFVn
 XE
 XO
