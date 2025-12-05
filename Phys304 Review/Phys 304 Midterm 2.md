@@ -1,0 +1,13 @@
+- Free Particle - 2.4
+- Commutator - Slides
+- Harmonic Oscillator - 2.3
+	- Wavefunctions - slides
+- Time dependent expectation - slides
+- 3D Quantum Mechanics -  4
+- Angular Momentum - 4.3
+- Full 3D solutions to Schrodinger Equation   - 4.1
+- 3D harmonic Oscillator - slides 
+- Radial solution for coulomb and 3D Harmonic oscillator - 4.4
+- Matrix notation - slides
+- Intrinsic vs. Orbital Angular Momentum 4.4 / slides
+- Spin and Bloch Sphere - 4.4

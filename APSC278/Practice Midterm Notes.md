@@ -1,0 +1,17 @@
+- Young's modulus is related to interatomic separation and Force.
+- Coordination number is the number of closely linked atoms in a crystal unit cell
+- Final Strain = Plastic Strain - Elastic recovery
+	- Elastic Recovery 
+		- $E = \frac{\sigma_{y}}{\epsilon_{y}}$
+		- $\epsilon_{recovery} = \sigma_{UTS} \cdot E$
+- Polycrystalline Materials
+	- Isotropic because
+		- Crystals oriented in different directions
+		- Different orientations result in averaging of the properties in many different directions
+		- More internal grain boundaries than monocrystalline material Grain boundaries enhance isotropic effect by disrupting the continuity of crystallographic alignment or of dislocation defects which prevent the rise of any direction within the material. 
+- Engineering Stress vs True stress
+	- Stress-strain curve dips after ultimate tensile stress due to necking. 
+		- Due to necking $\rightarrow$ there is non uniform localized deformation. 
+		- Smaller cross-section at local region of the test sample
+		- As strain increases the overall applied force at higher strain reduces too.
+	- Because engineering stress 

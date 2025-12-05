@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "63767a28fbb77eca",
+    "type": "split",
+    "children": [
+      {
+        "id": "574281129873219a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b7938826f2fe4fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elec221/Elec 221 - Relevant Chapters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elec 221 - Relevant Chapters"
+            }
+          },
+          {
+            "id": "f8a4c43784b889de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcebdaa7de56dbc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce353d202e1a5c2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb3fa9ab8a38ca7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "453c3107fdf4eab0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb86dd531a33a5e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APSC278/Fracture I - Brittle and Ductile Fracture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fracture I - Brittle and Ductile Fracture"
+            }
+          },
+          {
+            "id": "6fe977ad79a31295",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b55b508f69bbdf48",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fed230dcbe94cd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7504528152a0c3bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Embedded Systems Review/Embedded_C/Bit Manipulation for Embedded Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bit Manipulation for Embedded Systems"
+            }
+          },
+          {
+            "id": "e41760e9ac240083",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "APSC278/Fracture I - Brittle and Ductile Fracture.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Fracture I - Brittle and Ductile Fracture"
+            }
+          },
+          {
+            "id": "3e6b531f8462f4fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a6bbdd0a67d2edcd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Robo Summer ENPH 253/Lab 0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lab 0"
+            }
+          },
+          {
+            "id": "544d73d768b132fa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "f8a4c43784b889de",
+  "lastOpenFiles": [
+    "Images/Pasted image 20251116152831.png",
+    "Elec221/Elec 221 - Relevant Chapters.md",
+    "1.1 - Continuous and Discrete Time Signals.md",
+    "Elec221",
+    "Things for 11-6-2025.md",
+    "Images/Pasted image 20251116164836.png",
+    "Elec 301/Project 1 - Avi Guha.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Images/Pasted image 20251116223029.png",
+    "Images/Pasted image 20251116222702.png",
+    "Images/Pasted image 20251116221942.png",
+    "Images/Pasted image 20251116213602.png",
+    "Images/Pasted image 20251116212704.png",
+    "Images/Pasted image 20251116212623.png",
+    "Images/Pasted image 20251116201758.png",
+    "Images/Pasted image 20251116200924.png",
+    "Elec 301",
+    "Phys304 Review/Phys 304 Midterm 2.md",
+    "Phys304 Review",
+    "APSC278/Phase Diagrams III Fe-C System.md",
+    "APSC278/Phase Diagrams II.md",
+    "APSC278/Phase Diagram I.md",
+    "APSC278/Corrosion of Metals.md",
+    "APSC278/Electrical Properties.md",
+    "APSC278/Creep Failure.md",
+    "APSC278/Chemical Bonding.md",
+    "LeetCode/Two Sum.md",
+    "Excalidraw/Drawing 2025-06-05 20.26.35.excalidraw.md",
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "Excalidraw/Drawing 2025-10-13 23.24.38.excalidraw.md",
+    "APSC278/Fatigue.md",
+    "APSC278/Fracture II - Stress Concentration and Fracture Toughness.md",
+    "Embedded Systems Review/Recruiter Tips.md",
+    "Embedded Systems Review/Digital Communication Methods.md",
+    "Embedded Systems Review/RTOS/FreeRTOS.md",
+    "Embedded Systems Review/Embedded_C/DMA Buffer Management.md",
+    "Embedded Systems Review/Embedded_C/Bit Manipulation for Embedded Systems.md",
+    "Embedded Systems Review/Embedded_C/Aligned Memory Allocation.md",
+    "Embedded Systems Review/Communication",
+    "Embedded Systems Review/RTOS",
+    "Embedded Systems Review/Computer Architecture",
+    "Images",
+    "Embedded Systems Review",
+    "Untitled.canvas"
+  ]
+}
