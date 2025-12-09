@@ -11,12 +11,14 @@
             "id": "f8a4c43784b889de",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Elec 301/Project 2 - Avi Guha.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Project 2 - Avi Guha"
             }
           }
         ],
@@ -206,8 +208,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af6d88afcc6547c4",
+  "active": "f8a4c43784b889de",
   "lastOpenFiles": [
+    "Elec 301/Project 2 - Avi Guha.md",
     "Elec 301/Notes/Chapter 4 - Review Example.md",
     "Elec 301/Notes/Chapter 3.md",
     "Elec 301/Notes/Chapter 2 - Circuit of Interest.md",
