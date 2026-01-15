@@ -5,7 +5,7 @@
 ### Standard estimation:
 - Derive T(s)
 - set $s = j \omega$
-- Find $|T(j \omega)$
+- Find $|T(j \omega)$|
 - Set the magnitude lower by -3db of the 'midband' value.
 - Solve for $\omega_{L_{3dB}}$ and $\omega_{H_{3dB}}$
 ### Difficulties: 
