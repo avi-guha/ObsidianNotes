@@ -103,7 +103,7 @@
 6. Recovery: hotspot cools down and material regains superconductivity, then the detector is ready for the next photon again. 
 		
 
-## RF Design: 
+## RF Design (Microwave Engineering): 
 
 
 # Wednesday Aside Notes 
