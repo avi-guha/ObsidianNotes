@@ -104,7 +104,7 @@
 		
 
 ## RF Design (Microwave Engineering): 
-
+- 
 
 # Wednesday Aside Notes 
 - Design Specifications added: 
@@ -134,4 +134,18 @@
 	- Implications for the PCB: 
 		- Slow reset (gaussian decay) is determined by kinetic inductance. 
 		- Impedance matching the 100-1000nH wire rather than a simple shunt resistance.
-	
+- Cryos have thermal load / cooling power. This is how much power we can disppiate into the fridge before it no longer can maintain the desired temperature
+
+# Term Tasks
+RF AMP:  
+1. signal from SNSPD
+2. Amplification ASAP to maximize signal:noise
+3. Final Amplification to make suitable for measurement devices
+
+Current source:  
+1. best outside to minimize power dissipation inside
+2. Tunable so we can experiment with the effects of different bias currents
+
+Faraday Cage:  
+1. fits on 1K level around the SNSPD chip, should be suitable for 4 connectors
+2. works in PPMS (physical property measurement system)
