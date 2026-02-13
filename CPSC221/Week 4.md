@@ -164,3 +164,110 @@ void MSort(vector<T>& arr, int low, int high) {
 	}
 }
 ```
+
+### Merge Sort Analysis 
+- We want to understand how many compairsons are made in the merge step 
+	- Worst case: n-1 comparisons 
+		- need to check every subarray index 
+	- Best case: n/2 comparisons 
+		- Reach the end of one subarray, copy the rest of the second subarray 
+- Still copying n subarray items in any case.
+- We also want to know how many times each subarray can be divided 
+	- $\log_{2}n$ divisions to reach 1 element subarrays 
+- Overall, this is $\Theta(n\log n)$
+- We can prove that $T(n) \in O(n\log n)$
+
+## Merge Sort Correctness 
+
+``` c;
+void MergeSort(vector<T>& arr) {
+MSort(arr, 0, arr.size() – 1);
+}
+void MSort(vector<T>& arr, int low, int high) {
+	if (low < high) { // array has more than 1 element
+	int mid = (low + high) / 2;
+	MSort(arr, low, mid);
+	MSort(arr, mid+1, high);
+	Merge(arr, low, mid, high);
+	}
+}
+```
+- Proof by induction, not a loop invariant 
+	- Claim is that MSort will sort an array
+- Base case is n=0 or n=1, array is empty or size 1, already sorted. 
+	- low == high+1 or low == high, condition fails and function returns without modifying array.
+- Inductive step: consider arbitrary 1<k<= arr.size(), assume that MSort sorts an array for 0 < high-low+1 \< n 
+	- Show that it sorts for all high - low + 1 = n
+- Termination 
+	- In the recursive case, low < high and low < $\frac{low+high}{2}$ < high and each 'half' has at least one element and at most n-1. Thus in a finite number of recursive calls, we reach the base case. 
+
+## Summary of Sorting Algorithms 
+![[Pasted image 20260207192239.png]]
+
+- Big question: are there other comparison based sorting algorithms that can do better than merge sort, in the worst case? 
+	- Comparison-based algorithms can compare two elements in constant time 
+	- Cannot manipulate array elements in any other way 
+		- cannot assume that array elements are numbers and perform arithmetic operations such as division on them
+
+Quiz preparing: 
+
+**Recursive Defintions**
+- divide into k tasks and merge in constant time 
+- S(n) = k S(n/k) + n
+
+**Big O and Friends**
+- We say 
+	- $f(n) = O(g(n))$ if there exists constants c and $n_{o}$ such that $f(n) \leq cg(n) \quad \forall n>n_o$
+	- $f(n) = \Omega(g(n))$ if there exists constant c and $n_{o}$ such that $f(n) \geq cg(n) \quad \forall n > n_{o}$
+
+**Recurrence Relations**
+- Finding closed form solutions
+	- Keep going to until we reach the base case. 
+- Example with logs: 
+	- $T(n) = T\left( \frac{n}{2} \right) + 5, T(1) = 1$
+	- $T\left( \frac{n}{4} \right) + 10$ 
+	- ....
+	- $T\left( \frac{n}{2^{k}} \right) +5k$
+	- stop when $\frac{n}{2^{k}} =1$
+	- $k = \log_{2}(n)$
+	- $T(1) + 5log_{2}k$
+
+**Merge Sort**
+- ignoring the space used for arguments and space used for function call stack algorithm uses worst case O(1) additional memory. 
+- Worst case space complexity is $\Theta(\log n)$
+- A merge sort implemented with linked lists can be implemented recursively with less auxiliary memory. 
+
+**Array Resizing**
+
+Depends on implementation
+*Adding a set amount of size* (+10 space)
+- Total runtime is $\Theta(n^2)$
+- The amortized time complexity per insert is $\Theta(n)$
+- Worst case time complexity per insert is $\Theta(n)$
+
+*Doubling the Size*
+- Most inserts are $\Theta(1)$
+- Amortized per insert is $\Theta(1)$
+- Total running time of first n pushes is $\Theta(n)$
+
+
+**Queues**
+- with linked list place front of queue at head
+- Place end of queue at the tail of the listf
+- enqueue at the back, dequeue at the front. 
+
+**Stacks**
+- Look at order of elements for push/pop
+
+**Stack and Queue Implementation**
+- 2 stacks has O(n) enqueue dequeue implementation
+
+**Queue Implementation**
+- Insert at tail of this list when using linked list for enqueue. 
+- Remove at head of list when using linked list.
+- For array implementations, read what is available.
+
+**Array Resizing**
+- +n means n^2 
+- \*n means n
+- 

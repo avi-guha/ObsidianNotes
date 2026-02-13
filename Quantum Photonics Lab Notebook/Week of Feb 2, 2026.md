@@ -34,3 +34,4 @@ Connectors: SMP_SMT_molex:MOLEX_85305-0232
 	- 0->1 , 0- -1, -1 -> 0
 - SNSPD performance 
 	- 10 mV sweeps 
+- 
