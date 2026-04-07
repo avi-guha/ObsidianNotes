@@ -35,4 +35,4 @@
 - Switching to AD5761R DAC for good blessings (not ridiculous bullshit voltage requirements)
 - ![[Pasted image 20260212175516.png]]
 - ![[Pasted image 20260212175537.png]]
-- 
+- Op Amp Specification: OPA 192 rail to rail

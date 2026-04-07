@@ -1,0 +1,4 @@
+- Major overhaul of PCB 
+- now including current draw 
+- general design: series shunt resistor into TIA amplifier into DAC back to ESP32 via SPI
+- 15 milliohm resistor will have very small voltage drop between Vp and Vn so we amplify this difference and then in software can determine the true current. 
