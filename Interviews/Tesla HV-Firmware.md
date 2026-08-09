@@ -9,4 +9,7 @@
 - Global (exists everywhere)
 - Heap memory is prone to fragmentation
 
+Interview: 
+- Task scheduler implemented in C 
+
 
